@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TravelTranslator</string>
+    <string-array name="main_menu">
+        <item>Good morning.</item>
+        <item>Good afternoon.</item>
+        <item>Good evening.</item>
+        <item>Hello, my name is</item>
+        <item>What is your name?</item>
+        <item>How are you?</item>
+        <item>I am fine.</item>
+        <item>Nice to meet you.</item>
+        <item>Goodbye.</item>
+        <item>See you later.</item>
+        <item>I am lost. Where is the restroom?</item>
+        <item>Excuse me.</item>
+        <item>Please.</item>
+        <item>Thank you.</item>
+        <item>I\'m sorry.</item>
+        <item>Bless you.</item>
+        <item>You are welcome (it was nothing).</item>
+        <item>How much does it cost?</item>
+        <item>How many are there?</item>
+        <item>There are many.</item>
+        <item>Do you want to buy this?</item>
+        <item>What time is it?</item>
+        <item>Yes.</item>
+        <item>No.</item>
+        <item>Would you speak slower, please.</item>
+    </string-array>
+
+    <string-array name="main_lang">
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+</resources>
